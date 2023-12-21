@@ -1,9 +1,9 @@
 <h2 align="center">
   Portfolio Website
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+
+ ![portfolio_screenshot](https://github.com/Sourav928/PortfolioWebsite_sourav/assets/76393038/4b5f6cc8-a58d-49e7-a2c4-351a7d62eff9)
+
 
 ## Built With
 
