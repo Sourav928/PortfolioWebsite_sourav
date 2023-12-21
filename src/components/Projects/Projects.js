@@ -8,7 +8,7 @@ import Particle from "../Particle";
 import cash from "../../Assets/cash.png";
 import job from "../../Assets/job.png";
 import coin from "../../Assets/coin.png";
-import portfolio from "../../Assets/portfolio.png";
+import portfolio from "../../Assets/portfolio.jpg";
 // import ats from "../../Assets/ats.png";
 import SimonGame from "../../Assets/SimonGame.jpg";
 import HexCode from "../../Assets/HexCode.jpg";
@@ -81,7 +81,7 @@ MongoDB database"
               title="Portfolio"
               description="My portfolio website is a one-stop platform displaying my projects, GitHub contributions, tech stack, resume, blog, and contact information. It encapsulates my journey as a software engineer, making it a valuable resource for potential employers and collaborators.This website serves as a dynamic tool for networking, job opportunities, and collaboration, reflecting my passion and proficiency as a software engineer."
               ghLink="https://github.com/Sourav928/Sourix_Portfolio"
-              // demoLink="https://sushrut.vercel.app/"
+              demoLink="https://jovial-halva-cfa5f4.netlify.app/"
             />
           </Col>
           <Col md={4} className="project-card">
