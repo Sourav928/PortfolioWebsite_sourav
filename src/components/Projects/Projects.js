@@ -2,20 +2,20 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
+// import leaf from "../../Assets/Projects/leaf.png";
+// import emotion from "../../Assets/Projects/emotion.png";
+// import editor from "../../Assets/Projects/codeEditor.png";
 import cash from "../../Assets/cash.png";
 import job from "../../Assets/job.png";
 import coin from "../../Assets/coin.png";
 import portfolio from "../../Assets/portfolio.png";
-import ats from "../../Assets/ats.png";
+// import ats from "../../Assets/ats.png";
 import SimonGame from "../../Assets/SimonGame.jpg";
 import HexCode from "../../Assets/HexCode.jpg";
 
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+// import chatify from "../../Assets/Projects/chatify.png";
+// import suicide from "../../Assets/Projects/suicide.png";
+// import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
   return (

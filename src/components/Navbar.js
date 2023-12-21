@@ -6,7 +6,7 @@ import logo from "../Assets/logo.svg";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-scroll";
 import { CgGitFork } from "react-icons/cg";
-import { ImBlog } from "react-icons/im";
+// import { ImBlog } from "react-icons/im";
 import {
   AiFillStar,
   AiOutlineHome,
