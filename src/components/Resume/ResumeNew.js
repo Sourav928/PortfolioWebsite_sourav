@@ -4,16 +4,10 @@ import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 // import pdf from "../../Assets/../Assets/Sushrut_Resume_IIITN.pdf";
 import pdf from "../../Assets/SouravKhandekarIIITN.pdf";
-import {
-  AiFillGithub,
-  AiFillInstagram,
-  AiOutlineDownload,
-  AiOutlineTwitter,
-} from "react-icons/ai";
+import { AiOutlineDownload } from "react-icons/ai";
 // import { Document } from "react-pdf";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
-import { FaLinkedinIn } from "react-icons/fa";
 import {
   SiCodechef,
   SiCodingninjas,
