@@ -3,7 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import cash from "../../Assets/cash.png";
-import job from "../../Assets/job.png";
+// import job from "../../Assets/job.png";
+import maadhyam from "../../Assets/maadhyam.jpg";
 import portfolio from "../../Assets/portfolio.jpg";
 import SimonGame from "../../Assets/SimonGame.jpg";
 import HexCode from "../../Assets/HexCode.jpg";
@@ -35,11 +36,11 @@ receive messages instantly with Socket.io, and message time using timeago.js"
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={job}
+              imgPath={maadhyam}
               isBlog={false}
-              title="Food-Box"
-              description="Developed a feature-rich food delivery application, provides a convenient platform for ordering and delivering.Application as features including registration and authentication, payment, and order placement."
-              ghLink="https://github.com/Sourav928/Food-Box"
+              title="Maadhyam"
+              description="Developed a bloging website Maadhyam-Bloging application built using the powerful MERN (MongoDB, Express.js, React, Node.js) stack. It features a user-friendly interface with Material UI for a modern look and feel. The application allows users to create an account, log in securely, publish and manage their blogs across various categories. Additionally, users can explore and comment on posts from other authors."
+              ghLink="https://github.com/Sourav928/Maadhyam"
               // demoLink="https://job-brd.vercel.app/"
             />
           </Col>
