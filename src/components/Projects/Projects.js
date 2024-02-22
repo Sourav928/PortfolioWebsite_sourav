@@ -53,7 +53,7 @@ receive messages instantly with Socket.io, and message time using timeago.js"
               description="Developed a user friendly platform,that help users to keep the track of their daily tasks.Key features such as responsive website along with seamless CRUD operations.User friendly website is build with ReactJS, powered by NodeJS server,Express in backend with
 MongoDB database"
               ghLink="https://github.com/Sourav928/Activity-Tracker"
-              // demoLink="https://coin-stats.vercel.app/"
+              demoLink="https://sourix-activity-tracker.onrender.com/"
             />
           </Col>
 
