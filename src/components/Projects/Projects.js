@@ -40,7 +40,7 @@ receive messages instantly with Socket.io, and message time using timeago.js"
               isBlog={false}
               title="Maadhyam"
               description="Developed a bloging website Maadhyam-Bloging application built using the powerful MERN (MongoDB, Express.js, React, Node.js) stack. It features a user-friendly interface with Material UI for a modern look and feel. The application allows users to create an account, log in securely, publish and manage their blogs across various categories. Additionally, users can explore and comment on posts from other authors."
-              ghLink="https://github.com/Sourav928/Maadhyam"
+              ghLink="https://github.com/Sourav928/Maadhyam-Bloging"
               // demoLink="https://job-brd.vercel.app/"
             />
           </Col>
